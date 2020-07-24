@@ -1,4 +1,4 @@
-             CHATBOT USING TRANSFORMER IMPLEMENTATION IN TENSORFLOW ON TASKMASTER-2
+             CHATBOT USING TRANSFORMER IMPLEMENTED IN TENSORFLOW ON TASKMASTER-2
 
 ChatBot Using implementation of transformer at the core level.
 This is ongoing Repo where i am updating colabs regularly about my daily experiments 
