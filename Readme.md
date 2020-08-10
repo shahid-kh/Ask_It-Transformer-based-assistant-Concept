@@ -1,17 +1,8 @@
-             CHATBOT USING TRANSFORMER IMPLEMENTED IN TENSORFLOW ON TASKMASTER-2
+#Dialogue Model Using Transformer implemented in Tensorflow On Dataset Google's TASKMASTER-2
 
-ChatBot Using implementation of transformer at the core level.
+A dialogue model using  basic implementation of transformer at the core level.
 This is ongoing Repo where i am updating colabs regularly about my daily experiments 
-Data set i am using is TaskMaster-2 from GOOGLE
+i am using is TaskMaster-2 from GOOGLE as my dataset
 Hope we will get to a decent chatboot soon
-
-Dataset Details:
-Currently prototyping on Food-ordering.Json of Dataset.
-
-Version -Details
-Chatbot_1.1- basic training with CPU on TaskMaster-2
-Chatbot_1.2- TPU configured for training
-
-
 
 !!Happy Coding
